@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Cl1cker</b><br>
-  <a href="https://discord.gg/PFCAf5JaeG">Discord</a> 
+<a href="https://discord.gg/PFCAf5JaeG" target="_blank"> <img src="https://discordapp.com/api/guilds/892191598056718416/widget.png?style=shield" alt="shield.png"></a>
 
 <p align="center">
 	<b>Languages</b>
@@ -15,7 +15,7 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cl1ckerr&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
-
+<a href="https://cl1cker.xyz" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 <p>&nbsp;</p>    
 
