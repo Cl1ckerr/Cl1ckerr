@@ -3,6 +3,7 @@
 </b></br>
 </br>
 My Discord Server ↓
+</br>
 <a href="https://discord.gg/PFCAf5JaeG" target="_blank"> <img src="https://discordapp.com/api/guilds/892191598056718416/widget.png?style=shield" alt="shield.png"></a>
 
 <p align="center">
