@@ -1,6 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm Cl1cker
-    <img src="https://lanyard-profile-readme.vercel.app/api/841283872917422121"/>
+	</b></br>
+    <img src="https://lanyard-profile-readme.vercel.app/api/556994934025093120"/>
 </b></br>
 </br>
 My Discord Server ↓
