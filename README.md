@@ -1,5 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Cl1cker
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556994934025093120)](https://discord.com/users/556994934025093120)
 </b></br>
 </br>
 My Discord Server ↓
